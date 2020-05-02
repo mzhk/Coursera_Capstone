@@ -28,7 +28,7 @@ this way they can be assigned to same clusters.
 ## Results
 DBSCAN was setup to find small clusters with minimum of 2 locations on a quite limited space. Hence there are many small clusters visible on the map. After picking a location we can analyse if there are groups of similar kind of locations in the neighborhood and by checking the places information that belong to a cluster one can see what type of places are more common in the area.
 
-![Cluster Example](img/cluster1.png) ![Cluster Example 2](img/cluster2.png)
+![Cluster Example](img/cluster1.PNG) ![Cluster Example 2](img/cluster2.PNG)
 
 ## Discussion
 Based on the results we can say there are many hotspots in the city for certain type of locations. E.g. in first from above examples seems like there is enough of italian and asian restaurants for such a small region, so most probably not a best business idea to setup yet another of that kind.
